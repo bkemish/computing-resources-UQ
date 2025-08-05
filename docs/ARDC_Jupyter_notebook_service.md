@@ -1,6 +1,6 @@
 The ARDC Jupyter Notebook Service is another service hosted on the ARDC Nectar Research Cloud. The allocations are small ( 10GB Storage 4vCPUs and 7.5GB of Memory ). However, there is less configuration required compared with other options.
 
- You choose 1 of 4 options 
+ You can choose 1 of 4 options 
 
 1. Minimal (adds command line tools useful when working in Jupyter applications)
 
