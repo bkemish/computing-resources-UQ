@@ -10,5 +10,5 @@ The ARDC Jupyter Notebook Service is another service hosted on the ARDC Nectar R
 
 4. R environment (includes popular packages from the R ecosystem)
 
-You will be able to create and use multiple notebooks through the Jupyter Hub interface in your web browser. You can end the session by clicking the "Stop My Server" button on the Home page, Otherwise, the session will be automatically be stopped around 1 hour after you finish accessing it through your browser. 
+You will be able to create and use multiple notebooks through the Jupyter Hub interface in your web browser. You can end the session by clicking the "Stop My Server" button on the Home page. Otherwise, the session will be automatically be stopped around 1 hour after you finish accessing it through your browser. 
    
